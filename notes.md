@@ -1,5 +1,3 @@
-# About Me (5 minutes)
-
 # Trends in SDV (Software-Defined Vehicles) and Embedded Systems
 ## Architecture Evolution
 ## Software-Defined Vehicles (SDV) as the New Norm
@@ -42,7 +40,7 @@ The standardization allows for:
 - **Electric vehicles (EVs)**: The rise of EVs is driving the need for sophisticated software to manage energy use, battery life, and charging systems. Software is now central to optimizing vehicle efficiency, performance, and range.
 - **Convergence of powertrain and infotainment systems**: Software in EVs and hybrid vehicles is integrating traditional powertrain management with infotainment and user experience features, enabling seamless driver interaction and smart energy use.
 
-# The Car as a Mechatronics System (5 minutes)
+# The Car as a Mechatronics System
 ## Definition and components of a mechatronics system
 A Mechatronic System is defined as an integrated system comprising mechanical parts, electric devices, electronics components, and hardware, all controlled by programmed software, reflecting a multidisciplinary approach involving Mechanics, Electronics, Electric Engineering, Control, Measurement, and Computer Science.
 ## Integration of mechanical, electronic, and software systems
@@ -82,7 +80,7 @@ Digital logic devices control overall system operation
 - programmable logic controllers
 - sequencing and timing controls
 - control algorithms
-# Advanced Driver Assistance Systems (ADAS) (10 minutes)
+# Advanced Driver Assistance Systems (ADAS)
 ## Importance of ADAS
 Advanced Driver Assistance Systems is a catch-all term for any type of technological feature that makes driving safer, easier or more comfortable.
 ## Levels of Automation
@@ -107,12 +105,12 @@ Advanced Driver Assistance Systems is a catch-all term for any type of technolog
 - Navya: Shuttle service
 #### L5: Full Automation
 
-# Key ADAS Applications (10 minutes)
+# Key ADAS Applications
 ## Lane Keeping Assistance (LKA)
 ## Adaptive Cruise Control (ACC)
 ## Automatic Emergency Braking (AEB)
 
-# Role of Computer Vision in ADAS (10 minutes)
+# Role of Computer Vision in ADAS
 ## Neural Network
 
 ## Convolutional Neural Network
@@ -148,7 +146,7 @@ Eye tracking is another DMS technique, where the system monitors the driver’s 
 This technique reconstructs a 3D model of the driver or passengers from 2D images to detect body posture and movement. It’s used in DMS to monitor driver behavior (e.g., slouching or awkward positions) and in some passenger safety systems (e.g., detecting children or objects in improper seating positions).
 
 **Example:** By analyzing the driver's pose, the system can determine if the driver is sitting properly and whether seat belts are being used.
-# Challenges and Future Trends (10 minutes)
+# Challenges and Future Trends
 ## Technical and safety challenges
 ### Homologation Procedures
 Homologation is the process of certifying that a vehicle meets regulatory standards, which differs by region (EU, USA, China).
@@ -158,7 +156,7 @@ Each region may interpret and enforce these standards differently, making global
 ADAS systems rely on sensors (cameras, radars, LIDAR, ultrasonic).
 As the number of ADAS-equipped vehicles increases, sensors like radar can potentially interfere with each other, leading to false readings or degraded performance.
 This challenge will grow as vehicles become more reliant on these technologies for critical decision-making.
-See also: radar congestion.
+See also: [radar congestion](https://www.nhtsa.gov/sites/nhtsa.gov/files/documents/13790_radarstudy_092518_v2b-tag.pdf).
 ### Edge Cases and Data Inconsistencies
 While ADAS systems perform well in structured environments (e.g., highways), they struggle in complex, unpredictable urban scenarios.
 Edge cases, such as unpredictable pedestrian behavior or unusual road conditions, can lead to system failures.
@@ -196,10 +194,10 @@ Level 3 (conditional automation) and Level 4 (high automation) systems will begi
 ### Energy Efficiency in AI Models
 ADAS systems are computationally heavy and require significant power.
 To make AI-driven ADAS sustainable, future trends will include designing AI models that are not only more accurate but also energy-efficient, ensuring that systems can run without draining the vehicle’s power resources.
-# 8. About FPT Automotive (5 minutes)
+# About FPT Automotive
 ## Brief overview of your company's role in ADAS and computer vision
 ## Automotive Industry Growth
-# 9. Conclusion (5 minutes)
+# Conclusion
 ## Summary of key points
 - Vehicles are becoming increasingly complex​
 - Software is powering more vehicle functions and components​
@@ -207,9 +205,7 @@ To make AI-driven ADAS sustainable, future trends will include designing AI mode
 - Manufacturers are introducing features that enhance safety, comfort, and convenience​
 - Global safety legislations are driving key development​
 - The focus is on creating more connected and autonomous vehicles
-# 10. Q&A (10 minutes)
 
-# 11. Further Reading
+# Further Reading
 
  [Critical Reasons for Crashes Investigated in the National Motor Vehicle Crash Causation Survey](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjb0dfs1emIAxV7r1YBHWvOM9MQFnoECBQQAQ&url=https%3A%2F%2Fcrashstats.nhtsa.dot.gov%2FApi%2FPublic%2FPublication%2F812506&usg=AOvVaw2S4BHqxib6TLdLo20Eo6yN&opi=89978449)
-## Open the floor for questions and discussion
